@@ -23,11 +23,14 @@ See also the list of [Team Members](https://www.kawaaii.moe/karen/) who particip
 
 ### NodeJS:
 
-- [discord.js](https://discord.js.org/) - Discord Node.js Module.
-- [request](https://www.npmjs.com/package/request) in combination with [request-promise](https://www.npmjs.com/package/request-promise).
-- [mysql2](https://www.npmjs.com/package/mysql2) - MySQL wrapper to make a MySQL Database connection/executions (promised).
-- [weeb.js](https://www.npmjs.com/package/weeb.js) - Weeb Services wrapper (can only be used if partnered).
+- [discord.js](https://discord.js.org/) - Discord API libary written for Node.JS.
 - [ffmpeg-binaries](https://www.npmjs.com/package/ffmpeg-binaries) and [node-opus](https://www.npmjs.com/package/node-opus) - Used to play music through Discord
+- [moment.js](https://www.npmjs.com/package/moment) - A library for parsing, validating, manipulating, and formatting dates.
+- [axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js.
+- [snekfetch](https://www.npmjs.com/package/snekfetch) - **will be replaced by Axios.**
+- [Knex.js](https://www.npmjs.com/package/knex) - A multi-dialect query builder for Node.js.
+- [Canvas](https://www.npmjs.com/package/canvas) - Cairo-backed Canvas implementation for Node.js.
+- [rss-feed-emitter](https://www.npmjs.com/package/rss-feed-emitter) - Tracks and makes events on RSS feeds.
 - [listenmoe.js](https://www.npmjs.com/package/listenmoe.js) - LISTEN.moe wrapper to get current track from LISTEN.moe.
 
 ### Tools:
