@@ -11,7 +11,7 @@ She has a lot of functions to use with Roleplaying purposes, and she has a lot o
 ## Commands
 
 There are a lot of command that you can use, and they can be quite confusing if you never used a discord bot before.
-If you wanna know more about to use and setup Anzu? Make sure to check out the documentations.
+If you wanna know more about to use and setup Karen? Make sure to check out the documentations.
 
 ## Authors
 
